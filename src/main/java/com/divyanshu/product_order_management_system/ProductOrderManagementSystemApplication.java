@@ -1,0 +1,13 @@
+package com.divyanshu.product_order_management_system;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProductOrderManagementSystemApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProductOrderManagementSystemApplication.class, args);
+	}
+
+}
